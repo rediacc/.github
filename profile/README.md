@@ -26,9 +26,7 @@ Rediacc eliminates these bottlenecks with intelligent automation that accelerate
 - **Website**: [www.rediacc.com](https://www.rediacc.com)
 - **Early Access**: Join our program for priority access and dedicated implementation support
 - **Contact**: [contact@rediacc.com](mailto:contact@rediacc.com)
-
-Built with ❤️ in Estonia 🇪🇪
-
+  
 ---
 
 *Reduce infrastructure setup from days to minutes. Accelerate development operations. Build with confidence.*
